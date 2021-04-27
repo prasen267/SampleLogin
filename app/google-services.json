@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506288215546",
+    "project_id": "sampleproject-a5cbc",
+    "storage_bucket": "sampleproject-a5cbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506288215546:android:13230b28ce9f6f284ec043",
+        "android_client_info": {
+          "package_name": "com.sohini.samplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506288215546-urq3pkarl57hmn8jg4sgehuppqcc4r69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT_KFqXXTGOcqo6HWCSeyZQFYnlIkuPp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506288215546-urq3pkarl57hmn8jg4sgehuppqcc4r69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
